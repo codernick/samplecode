@@ -1,0 +1,9 @@
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.Properties.Resources.resources
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.Resource.resources
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.csproj.GenerateResource.Cache
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.frmHome.resources
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\bin\Debug\SquareItUp.exe
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\bin\Debug\SquareItUp.pdb
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.exe
+C:\Users\Nikhil\Documents\Projects\WindowsMobile\SquareItUp\SquareItUp\SquareItUp\obj\Debug\SquareItUp.pdb
